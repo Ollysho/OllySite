@@ -157,9 +157,10 @@ nav a:hover {
 #myWork h3 {
     background:
         linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3) ),
-        url(../img/SectionSpread.jpg);
+        url(../img/Spread.jpg);
     background-size: cover; 
     background-attachment: fixed; 
+    background-position: center;
     color: #ffffff;
     font-family: Reem Kufi;
     text-align: center;
